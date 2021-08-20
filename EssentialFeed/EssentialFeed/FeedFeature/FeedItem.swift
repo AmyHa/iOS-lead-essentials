@@ -1,6 +1,6 @@
 //
 //  FeedItem.swift
-//  EssentialFieed
+//  EssentialFeed
 //
 //  Created by Amy Ha on 20/08/2021.
 //
