@@ -75,10 +75,9 @@
 		62C2B89B26CF964D002E56C1 /* EssentialFieed */ = {
 			isa = PBXGroup;
 			children = (
+				62C2B8BD26CFB2FB002E56C1 /* FeedFeature */,
 				62C2B89C26CF964D002E56C1 /* EssentialFieed.h */,
 				62C2B89D26CF964D002E56C1 /* Info.plist */,
-				62C2B8B526CF978C002E56C1 /* FeedItem.swift */,
-				62C2B8B926CFB0D1002E56C1 /* FeedLoader.swift */,
 			);
 			path = EssentialFieed;
 			sourceTree = "<group>";
@@ -90,6 +89,15 @@
 				62C2B8A926CF964D002E56C1 /* Info.plist */,
 			);
 			path = EssentialFieedTests;
+			sourceTree = "<group>";
+		};
+		62C2B8BD26CFB2FB002E56C1 /* FeedFeature */ = {
+			isa = PBXGroup;
+			children = (
+				62C2B8B926CFB0D1002E56C1 /* FeedLoader.swift */,
+				62C2B8B526CF978C002E56C1 /* FeedItem.swift */,
+			);
+			path = FeedFeature;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
